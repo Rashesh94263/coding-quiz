@@ -16,7 +16,7 @@
 <a href="https://github.com/Rashesh94263/coding-quiz"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="">View Live Deployment</a>
+<a href="https://js-coding-quiz.netlify.app">View Live Deployment</a>
 ·
 <a href="https://github.com/Rashesh94263/coding-quiz/issues">Report Bug</a>
 ·
@@ -113,7 +113,7 @@ Don't forget to give the project a star! Thanks again!
 
 Rashes Dobariya - [Gmail::] - rashesdobariya777@gmail.com
 
-Project Link: [](https://github.com/Rashesh94263/coding-quiz)
+Project Link: [https://js-coding-quiz.netlify.app](https://github.com/Rashesh94263/coding-quiz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
